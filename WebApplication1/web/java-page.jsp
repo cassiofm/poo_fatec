@@ -14,7 +14,6 @@
     <body>
         <h1>Hello World!</h1>
         <h2> Java Page </h2>
-        <div><%= new java.util.Date() %></div>
         <a href="index.html">Voltar para a pagina inicial</a>
                 
     </body>
